@@ -92,13 +92,25 @@ npm run dev
 
 ---
 
-## 📸 Usage
+## 📸 Usage & Screenshots
 
-1. Open the application in your browser.
-2. Enter a valid YouTube URL in the input field.
-3. Click "Transcribe".
-4. The backend will securely download the audio, transcribe it, translate it, and send the animation data back to the frontend.
-5. Watch the 3D avatar sign the video content!
+SignBridge offers two primary modes of translation:
+
+### 1. Text to Sign
+Type directly into the input field to watch the avatar sign conversational text.
+<br/>
+<img src="assets/text_to_sign.png" alt="Text to Sign" width="600" />
+<br/>
+
+### 2. Video to Sign
+Paste a valid YouTube URL. The backend will securely extract the audio, transcribe the speech, and translate it into ASL.
+<br/>
+<img src="assets/video_transcribing.png" alt="Video Transcribing" width="600" />
+<br/>
+Watch the 3D avatar sign the video content in real-time alongside the highlighted transcription!
+<br/>
+<img src="assets/video_signing.png" alt="Video Signing" width="600" />
+<br/>
 
 ## 🤝 Contributing
 

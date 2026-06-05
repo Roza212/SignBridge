@@ -112,10 +112,6 @@ Watch the 3D avatar sign the video content in real-time alongside the highlighte
 <img src="assets/video_signing.png" alt="Video Signing" width="600" />
 <br/>
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check [issues page](https://github.com/Roza212/SignBridge/issues).
 
 ## 📄 License
 
